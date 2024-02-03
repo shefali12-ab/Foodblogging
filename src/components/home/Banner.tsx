@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 
 import RedButton from "../buttons/RedButton";
-import WhiteBorderButton from "../buttons/WhiteBorderButton";
+
 
 const Banner = () => {
   return (
